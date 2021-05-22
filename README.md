@@ -12,14 +12,27 @@ OldModz95
 
 <br>
 
-## Bot Discord Auth.gg Version EN
+### Bot Discord Auth.gg Version EN
+<br>
 
-# Installation
+## Installation
+<br>
+<br>
 
+# Install Package
+<br>
 ```
 npm i version-en-bot-discord-auth.gg
 ```
+<br>
+<br>
 
+# Install Index.js
+<br>
+[Github index.js](https://github.com/ProtonD/version-en-bot-discord-auth.gg)
+<br>
+<br>
+<br>
 ## Picture
 
 <br>
