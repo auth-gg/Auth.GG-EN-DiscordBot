@@ -30,7 +30,9 @@ npm i version-en-bot-discord-auth.gg
 
 # Install Index.js
 <br>
-![Github index.js](https://github.com/ProtonD/version-en-bot-discord-auth.gg)
+
+[Github index.js](https://github.com/ProtonD/version-en-bot-discord-auth.gg)
+
 <br>
 <br>
 <br>
